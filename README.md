@@ -1,4 +1,4 @@
-# mirrar_QA_Report
+# Mirrar_QA_Report
 
 **Test  Document:**  <br/>
 Jewelry Try-On Website  <br/>
@@ -9,7 +9,7 @@ The Jewelry Try-On website allows users to virtually try on jewelry on themselve
 
 **Testing Criteria:** <br/>
 **Link Testing:** <br/>
-Verified  that all link are working fine and itnavigates to the correct page. <br/>
+Verified  that all link are working fine and it navigates to the correct page. <br/>
 **Button Testing:** <br/>
 Tested the functionality of all buttons and Verified that buttons respond appropriately to user interactions.<br/>
 **Jewelry Try-On:** <br/>
@@ -18,7 +18,7 @@ Tested the virtual try-on functionality for different jewelry items and found th
 Tested the try-on functionality in Camera mode,Studio mode,predefined or uploaded Model images, seamless transitions between try-on modes.
 found that sometimes failling perfect image position. <br/>
 Negative Scenarios: <br/>
-⦁	Its failing to reload the banner of the page. <br/>
+⦁	Its failing to reload the banner of the webpage page. <br/>
 ⦁	found that there are some errors in generating virtual product images like improper position of the virtual image,3-5 images are genarating with background <br/>
 ⦁	try to change the add to cart function or try ti increase the size of that button user might get difficulty in adding the cart <br/>
 ⦁	rendering time of the virtual  image is taking few seconds longer <br/>
