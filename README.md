@@ -37,7 +37,7 @@ The camera feed should initialize, and the selected jewelry item should be visib
 
 
 **Attachments:**
-<img width="950" alt="Screenshot 2024-01-13 152227" src="https://github.com/simpleesarath/mirrar_QA_Report/assets/88574803/5c5007af-294b-457d-b6d5-7ac2a10c9d8e">
+
 <img width="959" alt="Screenshot 2024-01-13 15240923" src="https://github.com/simpleesarath/mirrar_QA_Report/assets/88574803/d0254b24-3c0a-47df-b6e7-c9d1dd9e8cd3">
 <img width="953" alt="Screenshot 2024-01-13 152302" src="https://github.com/simpleesarath/mirrar_QA_Report/assets/88574803/77152707-5505-444a-a8fa-54a0aed91b93">
  ![Screenshot (324)](https://github.com/simpleesarath/mirrar_QA_Report/assets/88574803/7a7f2b3e-b8ce-449e-ad1d-d590d89c73c5)
